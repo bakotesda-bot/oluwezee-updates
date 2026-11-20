@@ -51,32 +51,32 @@
   ]
  },
  {
-  "tag_name": "remote-v2.6",
-  "name": "Remote 2.6",
+  "tag_name": "remote-v2.7",
+  "name": "Remote 2.7",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-11-19T22:31:44Z",
+  "published_at": "2026-11-20T01:58:51Z",
   "assets": [
    {
     "name": "oluwezee-remote.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/remote-v2.6/oluwezee-remote.apk",
-    "size": 906833,
-    "digest": "sha256:d2077ee67ab50b836fa416752f016074e6f6037c989dfd0281d2623f100ce4d2"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/remote-v2.7/oluwezee-remote.apk",
+    "size": 906953,
+    "digest": "sha256:c0b44de694b46790eadc779fae7ee8c18bc5bb849205d679126646f877f529b6"
    }
   ]
  },
  {
-  "tag_name": "fele-remote-v2.6",
-  "name": "Fele Remote 2.6",
+  "tag_name": "fele-remote-v2.7",
+  "name": "Fele Remote 2.7",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-11-19T22:32:08Z",
+  "published_at": "2026-11-20T02:00:13Z",
   "assets": [
    {
     "name": "fele-remote.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-remote-v2.6/fele-remote.apk",
-    "size": 911653,
-    "digest": "sha256:64d4dd074126119ca79eab6cf1c1adc52e04acd729979deba884c8419f3a6b58"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-remote-v2.7/fele-remote.apk",
+    "size": 911781,
+    "digest": "sha256:4869685563e2f51646905b83e4570eace9f4564842deab6fe7483242e03505ed"
    }
   ]
  },
