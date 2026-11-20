@@ -1,0 +1,113 @@
+[
+ {
+  "tag_name": "tv-v1.1.7",
+  "name": "TV 1.1.7",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-20T01:03:37Z",
+  "assets": [
+   {
+    "name": "fele-living.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/fele-living.apk",
+    "size": 23685409,
+    "digest": "sha256:65046de01224bee593952ea026740752bd994fd351d799b9975ae688766f3ca2"
+   },
+   {
+    "name": "fele-tv.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/fele-tv.apk",
+    "size": 23685405,
+    "digest": "sha256:aa957b6adc3af74fa949238e14f7e8a9c4eddfe185af51980d4c98775229f3b5"
+   },
+   {
+    "name": "fele.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/fele.apk",
+    "size": 23685421,
+    "digest": "sha256:b6671710431f866cb12ddb13a21a098831290ad9e27a35bbb134982ab6390046"
+   },
+   {
+    "name": "oluwezee-bedroom.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/oluwezee-bedroom.apk",
+    "size": 23685577,
+    "digest": "sha256:a597be8ed52775b6b0cb6954439bcfe43041f2e4fa7b19881faa8423bf7f86db"
+   },
+   {
+    "name": "oluwezee-living-room.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/oluwezee-living-room.apk",
+    "size": 23685597,
+    "digest": "sha256:7986785c0d842fa87c247bdc0c713e7e492e62d54a43f22e3d44f080e579c15f"
+   },
+   {
+    "name": "oluwezee-parlour.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/oluwezee-parlour.apk",
+    "size": 23685597,
+    "digest": "sha256:367ec61d3708b6603e804e67f61ffdb30fe075ff3dfd23084935c7d3a6e78bc8"
+   },
+   {
+    "name": "oluwezee-tv.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.1.7/oluwezee-tv.apk",
+    "size": 23685581,
+    "digest": "sha256:48d85c4eac8b6704db83ce20599ae9e94a700395b1e41b6bfd6cd930543f62e0"
+   }
+  ]
+ },
+ {
+  "tag_name": "remote-v2.6",
+  "name": "Remote 2.6",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-19T22:31:44Z",
+  "assets": [
+   {
+    "name": "oluwezee-remote.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/remote-v2.6/oluwezee-remote.apk",
+    "size": 906833,
+    "digest": "sha256:d2077ee67ab50b836fa416752f016074e6f6037c989dfd0281d2623f100ce4d2"
+   }
+  ]
+ },
+ {
+  "tag_name": "fele-remote-v2.6",
+  "name": "Fele Remote 2.6",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-19T22:32:08Z",
+  "assets": [
+   {
+    "name": "fele-remote.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-remote-v2.6/fele-remote.apk",
+    "size": 911653,
+    "digest": "sha256:64d4dd074126119ca79eab6cf1c1adc52e04acd729979deba884c8419f3a6b58"
+   }
+  ]
+ },
+ {
+  "tag_name": "admin-v1.4",
+  "name": "Oluwezee Admin 1.4",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-19T15:51:07Z",
+  "assets": [
+   {
+    "name": "oluwezee-admin.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/admin-v1.4/oluwezee-admin.apk",
+    "size": 13888437,
+    "digest": "sha256:1918787f38ece4bf7bde366a914de0042fbd01a24283a6e27c19a127541af021"
+   }
+  ]
+ },
+ {
+  "tag_name": "fele-admin-v1.4",
+  "name": "Fele Admin 1.4",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-19T16:06:15Z",
+  "assets": [
+   {
+    "name": "fele-admin.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-admin-v1.4/fele-admin.apk",
+    "size": 13869565,
+    "digest": "sha256:8e6f8cc426dda4f9c8f596b4277eb724af8366eacf192a8cc83bd9edb6fdb1b2"
+   }
+  ]
+ }
+]
