@@ -81,32 +81,32 @@
   ]
  },
  {
-  "tag_name": "admin-v1.4",
-  "name": "Oluwezee Admin 1.4",
+  "tag_name": "admin-v1.5",
+  "name": "Oluwezee Admin 1.5",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-11-19T15:51:07Z",
+  "published_at": "2026-11-20T02:02:51Z",
   "assets": [
    {
     "name": "oluwezee-admin.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/admin-v1.4/oluwezee-admin.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/admin-v1.5/oluwezee-admin.apk",
     "size": 13888437,
-    "digest": "sha256:1918787f38ece4bf7bde366a914de0042fbd01a24283a6e27c19a127541af021"
+    "digest": "sha256:7d650e39f1264329cac237590a066e22e7171a1cab6807a01ee17a18f3f2d1d9"
    }
   ]
  },
  {
-  "tag_name": "fele-admin-v1.4",
-  "name": "Fele Admin 1.4",
+  "tag_name": "fele-admin-v1.5",
+  "name": "Fele Admin 1.5",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-11-19T16:06:15Z",
+  "published_at": "2026-11-20T02:12:30Z",
   "assets": [
    {
     "name": "fele-admin.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-admin-v1.4/fele-admin.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/fele-admin-v1.5/fele-admin.apk",
     "size": 13869565,
-    "digest": "sha256:8e6f8cc426dda4f9c8f596b4277eb724af8366eacf192a8cc83bd9edb6fdb1b2"
+    "digest": "sha256:d343bb9ef273719f663325901309b8d936ba368715d61a35a1bfc819901cf14f"
    }
   ]
  }
