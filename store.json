@@ -109,5 +109,20 @@
     "digest": "sha256:d343bb9ef273719f663325901309b8d936ba368715d61a35a1bfc819901cf14f"
    }
   ]
+ },
+ {
+  "tag_name": "sports-v1.1",
+  "name": "Oluwezee Sports 1.1",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-11-23T23:30:22Z",
+  "assets": [
+   {
+    "name": "oluwezee-sports.apk",
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/sports-v1.1/oluwezee-sports.apk",
+    "size": 3884422,
+    "digest": "sha256:b32973ca424d9d647fc44bb6e6a819e575a3c9fb7a9b9ab9c7448dca37a3b5d4"
+   }
+  ]
  }
 ]
