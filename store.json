@@ -1,52 +1,52 @@
 [
  {
-  "tag_name": "tv-v1.2.3",
-  "name": "TV 1.2.3",
+  "tag_name": "tv-v1.2.4",
+  "name": "TV 1.2.4",
   "draft": false,
   "prerelease": false,
-  "published_at": "2026-11-25T21:46:33Z",
+  "published_at": "2026-11-26T00:56:52Z",
   "assets": [
    {
     "name": "fele-living.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/fele-living.apk",
-    "size": 24648629,
-    "digest": "sha256:1b61ad8b6deee0198538b7b1298648f705224de6e87e230b60b6090e8a4e350e"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/fele-living.apk",
+    "size": 24659297,
+    "digest": "sha256:ee8d4bc931b5d70a7867f74cffd1a60628301abd5062182fe66bbe9124d36346"
    },
    {
     "name": "fele-tv.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/fele-tv.apk",
-    "size": 24648569,
-    "digest": "sha256:edb3ac5d6ab59a755a6d74e9142f3de01c8f864c9916e5eb135470c1087e5d82"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/fele-tv.apk",
+    "size": 24659209,
+    "digest": "sha256:1466344065e5f62590cf5953ecc96ae4ad8a0c3279a6da4a89f9c3b0f4069d20"
    },
    {
     "name": "fele.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/fele.apk",
-    "size": 24648585,
-    "digest": "sha256:548e5d9f8c3756234278862728ebbd3452d748c1fa0b1d47b1f268fa8d0e6cd0"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/fele.apk",
+    "size": 24659265,
+    "digest": "sha256:6ae48ec2937c03eeedee1b6899ca70a0bdb43b7b0e541067b284b75c41762803"
    },
    {
     "name": "oluwezee-bedroom.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/oluwezee-bedroom.apk",
-    "size": 24648785,
-    "digest": "sha256:6a62da87c1f4cb09f69fb94bd486e33f01cbc11c1a08f377ee2a98ace253251f"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/oluwezee-bedroom.apk",
+    "size": 24659405,
+    "digest": "sha256:fa1011070646fea8002ddf56e47bb04563436fa898a26b683f93f22407f90012"
    },
    {
     "name": "oluwezee-living-room.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/oluwezee-living-room.apk",
-    "size": 24648773,
-    "digest": "sha256:bfdce1b3b51bbc3d485b4461b8815046c36176ea8ad0302696e781ae940d5306"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/oluwezee-living-room.apk",
+    "size": 24659381,
+    "digest": "sha256:d328e1f3b6a204df82c1778658a682b8b087b15e21594e7aa4701ddd3f8f0a80"
    },
    {
     "name": "oluwezee-parlour.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/oluwezee-parlour.apk",
-    "size": 24648773,
-    "digest": "sha256:684d3ba2a8d9420200bea2cf586c9a925a1a50d0013363fa3e50adfe3e26a99a"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/oluwezee-parlour.apk",
+    "size": 24659389,
+    "digest": "sha256:914c1b68dd3877cdb6568022eef32b0d2ddd132f1676215e7c7d72c8d35a5d05"
    },
    {
     "name": "oluwezee-tv.apk",
-    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.3/oluwezee-tv.apk",
-    "size": 24648697,
-    "digest": "sha256:aac0e1c149023fc53fbc235933d2c9a575483ef8dcc15e3549f41f7189508d65"
+    "browser_download_url": "https://github.com/bakotesda-bot/oluwezee-updates/releases/download/tv-v1.2.4/oluwezee-tv.apk",
+    "size": 24659305,
+    "digest": "sha256:14df5c3c4d97482dcdbcad0956807072233c0df0aa53ae6bb655c42b90277cd0"
    }
   ]
  },
